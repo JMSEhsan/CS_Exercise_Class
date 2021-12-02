@@ -1,0 +1,15 @@
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\CS_Exercise_Class.exe
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\CS_Exercise_Class.deps.json
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\CS_Exercise_Class.runtimeconfig.json
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\CS_Exercise_Class.dll
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\ref\CS_Exercise_Class.dll
+C:\Users\se_ja\Desktop\CS_Exercise_Class\bin\Debug\net6.0\CS_Exercise_Class.pdb
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.csproj.AssemblyReference.cache
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.AssemblyInfoInputs.cache
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.AssemblyInfo.cs
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.dll
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\ref\CS_Exercise_Class.dll
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.pdb
+C:\Users\se_ja\Desktop\CS_Exercise_Class\obj\Debug\net6.0\CS_Exercise_Class.genruntimeconfig.cache
