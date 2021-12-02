@@ -15,10 +15,17 @@ using System;
 
     static void Main(string[] args)
     {
-      Car myObj = new Car();
-      Console.WriteLine(myObj.color);
-      Console.WriteLine(myObj.style);
-      Console.WriteLine(myObj.year_made);
+      Car myObj1 = new Car();
+      Car myObj2 = new Car();
+      Console.WriteLine(myObj1.color);
+      Console.WriteLine(myObj1.style);
+      Console.WriteLine(myObj1.year_made);
+
+      Console.WriteLine("");
+
+      Console.WriteLine(myObj2.color);
+      Console.WriteLine(myObj2.style);
+      Console.WriteLine(myObj2.year_made);
     }
   }
 //}
